@@ -1,6 +1,7 @@
 # flutter_ecommerce
 
 A new Flutter project.
+![photo_2024-07-19_21-30-43](https://github.com/user-attachments/assets/8f3c56b8-2736-4ca1-af64-f8f602587d3a)
 
 ## Getting Started
 
